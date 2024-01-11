@@ -7,27 +7,14 @@ Calculate word counts in a text file!
 ```bash
 $ pip install pycounts_alytow
 ```
-
 ## Usage
 
-# pycounts
-
-Calculate word counts in a text file!
-
-## Installation
-
-```bash
-$ pip install pycounts
-```
-
-## Usage
-
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_alytow` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_alytow.pycounts_alytow import count_words
+from pycounts_alytow.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
