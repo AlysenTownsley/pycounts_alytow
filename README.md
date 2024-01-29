@@ -29,7 +29,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pycounts_alytow` was created by Alysen Townsley. It is licensed under the terms of the MIT license.
+`pycounts_alytow` was created by Alysen Townsley (@AlysenTownsley). It is licensed under the terms of the MIT license.
 
 ## Credits
 
