@@ -2,6 +2,13 @@
 
 
 
+## v0.3.0 (2024-01-29)
+
+### Feature
+
+* feat: Update README.md ([`d09efe2`](https://github.com/AlysenTownsley/pycounts_alytow/commit/d09efe21dab399ba962904aa7ef56a7d7dd19a45))
+
+
 ## v0.2.0 (2024-01-29)
 
 ### Feature
