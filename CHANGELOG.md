@@ -2,6 +2,13 @@
 
 
 
+## v0.4.3 (2024-01-30)
+
+### Fix
+
+* fix: Update README.md ([`3b707b0`](https://github.com/AlysenTownsley/pycounts_alytow/commit/3b707b09bd40c7aae4100d63c0e13b5ef80d3ac6))
+
+
 ## v0.4.2 (2024-01-30)
 
 ### Fix
