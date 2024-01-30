@@ -2,6 +2,13 @@
 
 
 
+## v0.4.2 (2024-01-30)
+
+### Fix
+
+* fix: Update ci-cd.yml ([`da792de`](https://github.com/AlysenTownsley/pycounts_alytow/commit/da792dec8a423566e34ac117780fd56159dae05c))
+
+
 ## v0.4.1 (2024-01-30)
 
 ### Fix
