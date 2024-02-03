@@ -2,6 +2,25 @@
 
 
 
+## v1.0.0 (2024-02-03)
+
+### Breaking
+
+* feat!: Update LICENSE for major version bump
+
+feat!: Update LICENSE for major version bump
+
+Version bump for Milestone 4.
+
+BREAKING CHANGES: Version bump for Milestone 4. ([`93b68e3`](https://github.com/AlysenTownsley/pycounts_alytow/commit/93b68e359285ac768fdd7b4083d5336fbc19ddc4))
+
+### Unknown
+
+* Merge pull request #1 from AlysenTownsley/major-version-bump
+
+feat!: Update LICENSE for major version bump ([`2cfec14`](https://github.com/AlysenTownsley/pycounts_alytow/commit/2cfec14a9ab34c87784553a8d8521cbda3579d4b))
+
+
 ## v0.5.0 (2024-01-30)
 
 ### Feature
